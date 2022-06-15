@@ -13,7 +13,8 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 The code for the feature flag is in the `scripts.js` file
 
-Numblocks was built with vanilla HTML, CSS and JavaScript; It doesn't use any frameworks.
+## Set up NumBlocks on your local mahine
+Numblocks was built with vanilla HTML, CSS and JavaScript; It doesn't use any frameworks, so setting it up is easy.
 
 If you want to run Numblocks on your computer, you can click the Code button on the Github page. You will see the option to Clone, Open with Github Desktop, or Download the project as a ZIP file. I will cover how to Clone and Download ZIP.
 
