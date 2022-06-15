@@ -11,7 +11,7 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 ![colorfeature (3)](https://user-images.githubusercontent.com/71462377/173887199-949c4f2e-0d7b-4d03-9718-780efc6c6ba5.jpg)
 
-The code for the feature flag is in the `scripts.js` file
+**The code for the feature flag is in the `scripts.js` file**
 
 ## Set up NumBlocks on your local mahine
 Numblocks was built with vanilla HTML, CSS and JavaScript; It doesn't use any frameworks, so setting it up is easy.
