@@ -7,8 +7,6 @@ function init() {
 			let colorBtn = document.querySelector('#colorBtn');
 			colorBtn.onclick = changeColor
 			colorBtn.style.display = 'block';
-		} else {
-			alert("Not enabled");
 		}
 	})
 
