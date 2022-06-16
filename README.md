@@ -4,7 +4,8 @@ NumBlocks is a small app that can help kids learn how to recognise numbers 🙂.
 The numbers are arranged in colourful blocks to grab kids attention.
 
 
-<img src="https://user-images.githubusercontent.com/71462377/173886061-e559f761-2e90-418f-8ea6-a3706e4a44f6.jpg" alt="NumBlocks">
+![numnormal](https://user-images.githubusercontent.com/71462377/174052754-4803eeb0-7606-4b8b-9512-725ec01d8ce6.jpg)
+
 *Numblocks App*	
 
 
@@ -13,7 +14,8 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 
 
-<img src="https://user-images.githubusercontent.com/71462377/173887199-949c4f2e-0d7b-4d03-9718-780efc6c6ba5.jpg" alt="New Color Change Feature">
+![colorfeature (3)](https://user-images.githubusercontent.com/71462377/174052845-169afac6-ae86-45dc-af64-ea1f886cbfa8.jpg)
+
 *New color change feature displayed after enabling feature flag*
 
 
