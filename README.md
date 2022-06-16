@@ -26,7 +26,9 @@ Numblocks was built with vanilla HTML, CSS and JavaScript; It doesn't use any fr
 
 **NOTE: The code for the feature flag that toggles the color change feature is in the `scripts.js` file**
 
-![clickcodebtn](https://user-images.githubusercontent.com/71462377/174053346-1d203586-c373-4d4b-887d-d1a8b2a02ed0.jpg)
+
+![cloneoptions](https://user-images.githubusercontent.com/71462377/174054100-3e32560b-bca8-4eed-a5a9-afd2fcef6397.jpg)
+
 
 *Options for getting the code*
 
