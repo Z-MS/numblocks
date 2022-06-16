@@ -33,7 +33,7 @@ Numblocks was built with vanilla HTML, CSS and JavaScript; It doesn't use any fr
 *Options for getting the code*
 
 
-If you want to run NumBlocks on your computer, you can click the Code button on the Github page. You will see the option to Clone, Open with Github Desktop, or Download the project as a ZIP file. I will cover how to clone the repository and how to download the ZIP file.
+If you want to run NumBlocks on your computer, you can click the 'Code' button on the Github repository, shown in the image above. You will see the option to Clone, Open with Github Desktop, or Download the project as a ZIP file. I will cover how to clone the repository and how to download the ZIP file.
 
 ### Cloning the Repository
 This option requires you to have Git installed on your computer. If you don't have Git installed, download it [here](https://git-scm.com/downloads).
