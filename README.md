@@ -5,15 +5,15 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 <figure>
 <img src="https://user-images.githubusercontent.com/71462377/173886061-e559f761-2e90-418f-8ea6-a3706e4a44f6.jpg" alt="NumBlocks">
-<figcaption align = "center">NumBlocks App</b></figcaption>	
+<figcaption align="center">NumBlocks App</figcaption>	
 </figure>
 
 
 **New Feature:** You can change the colours of the blocks so children can stay interested and have something to play with. You can also use the colour changing feature to teach them about colours 😀.
 
 <figure>
-<img src="" alt="https://user-images.githubusercontent.com/71462377/173887199-949c4f2e-0d7b-4d03-9718-780efc6c6ba5.jpg">
-<figcaption align = "center">New color change feature displayed after enabling feature flag</figcaption>	
+<img src="https://user-images.githubusercontent.com/71462377/173887199-949c4f2e-0d7b-4d03-9718-780efc6c6ba5.jpg" alt="New Color Change Feature">
+<figcaption align="center">New color change feature displayed after enabling feature flag</figcaption>	
 </figure>
 
 
