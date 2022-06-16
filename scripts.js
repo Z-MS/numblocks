@@ -1,8 +1,9 @@
 function init() {
-	let configCatClient = configcat.createClient("SDK-KEY");
+	let configCatClient = configcat.createClient("2U7aCOfWMU-MKACsOXCM0g/LIyqQd4dW0al7huj-0r9Vw");
 
 	configCatClient.getValueAsync("changeBlocksColor", false)
 	.then((value) => {
+		// if the feature flag is on, display the button and make it execute changeColor when clicked 
 		if(value) {
 			let colorBtn = document.querySelector('#colorBtn');
 			colorBtn.onclick = changeColor
