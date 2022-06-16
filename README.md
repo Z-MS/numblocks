@@ -10,6 +10,7 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 
 
+
 **New Feature:** You can change the colours of the blocks so children can stay interested and have something to play with. You can also use the colour changing feature to teach them about colours 😀.
 
 
@@ -24,6 +25,11 @@ The numbers are arranged in colourful blocks to grab kids attention.
 Numblocks was built with vanilla HTML, CSS and JavaScript; It doesn't use any frameworks, so setting it up is easy.
 
 **NOTE: The code for the feature flag that toggles the color change feature is in the `scripts.js` file**
+
+![clickcodebtn](https://user-images.githubusercontent.com/71462377/174053346-1d203586-c373-4d4b-887d-d1a8b2a02ed0.jpg)
+
+*Options for getting the code*
+
 
 If you want to run NumBlocks on your computer, you can click the Code button on the Github page. You will see the option to Clone, Open with Github Desktop, or Download the project as a ZIP file. I will cover how to clone the repository and how to download the ZIP file.
 
