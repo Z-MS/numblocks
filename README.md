@@ -5,7 +5,7 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 <figure>
 <img src="https://user-images.githubusercontent.com/71462377/173886061-e559f761-2e90-418f-8ea6-a3706e4a44f6.jpg" alt="NumBlocks">
-<figcaption align="center">NumBlocks App</figcaption>	
+<figcaption style="text-align: center;">NumBlocks App</figcaption>	
 </figure>
 
 
@@ -13,7 +13,7 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 <figure>
 <img src="https://user-images.githubusercontent.com/71462377/173887199-949c4f2e-0d7b-4d03-9718-780efc6c6ba5.jpg" alt="New Color Change Feature">
-<figcaption align="center">New color change feature displayed after enabling feature flag</figcaption>	
+<figcaption style="text-align: center;">New color change feature displayed after enabling feature flag</figcaption>	
 </figure>
 
 
