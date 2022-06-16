@@ -5,7 +5,7 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 
 ![numnormal](https://user-images.githubusercontent.com/71462377/173886061-e559f761-2e90-418f-8ea6-a3706e4a44f6.jpg)
-*NumBlocks App*
+<figcaption align = "center">NumBlocks App</b></figcaption>
 
 
 **New Feature:** You can change the colours of the blocks so children can stay interested and have something to play with. You can also use the colour changing feature to teach them about colours 😀.
