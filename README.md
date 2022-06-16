@@ -6,7 +6,7 @@ The numbers are arranged in colourful blocks to grab kids attention.
 
 <figure>
 <img src="https://user-images.githubusercontent.com/71462377/173886061-e559f761-2e90-418f-8ea6-a3706e4a44f6.jpg" alt="NumBlocks">
-<figcaption style="text-align: center;">NumBlocks App</figcaption>	
+	<center>Numblocks App</center>	
 </figure>
 
 
