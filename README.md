@@ -43,9 +43,8 @@ This option requires you to have Git installed on your computer. If you don't ha
 	* For Windows: Press **Windows Key + R** to open Run, then type cmd and click OK.
 	* For Linux (Ubuntu): Press **Ctrl + Alt + T**.
 	* For Mac: Click **Command + Space**, a textbox should open. Type 'Terminal' in the textbox, and click it when it shows up in the search results.
-* Navigate to the folder you want.
-* Paste the link you copied from Github.
-* Run the command.
+* Navigate to the folder you want the project to be in.
+* Run `git clone` https://github.com/Z-MS/numblocks.git.
 
 Once the command has run, you should see the numblocks folder.
 
